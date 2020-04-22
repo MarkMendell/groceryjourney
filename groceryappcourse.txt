@@ -1,0 +1,28 @@
+
+
+
+
+* grocery app
+const, let
+function
+list
+comments
+create element
+id + js
+text input, value
+button, click listener
+remove element
+Array.from, .forEach
+### plus server... ###
+network request
+c program
+listen on a port
+forever loop
+error checking
+read, write, close
+sleep
+c array
+copy a string
+'popping' in an array
+comparing strings strncmp
+goto

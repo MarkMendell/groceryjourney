@@ -1,0 +1,22 @@
+<!doctype html>
+
+<!-- This will refresh the page when you save -->
+<script src="https://livejs.com/live.js"></script>
+
+<script>
+function getFortyTwo() {
+	return 42;
+}
+console.log(getFortyTwo());
+
+function addOne(x) {
+	return x + 1;
+}
+console.log(addOne(50));
+
+function getFortyThree() {
+	const fortyTwo = getFortyTwo();
+	return addOne(fortyTwo);
+}
+console.log(getFortyThree());
+</script>
